@@ -1,0 +1,1 @@
+Project for REST API in Django.
